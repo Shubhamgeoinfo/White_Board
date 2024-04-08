@@ -1,0 +1,19 @@
+.icon-button {
+    background: none;
+    border: none;
+    font-size: x-large;
+}
+
+.icon-button:hover {
+    box-shadow: inset;
+}
+
+.color-input {
+    height: 20px;
+    width: 20px;
+}
+
+.button-wrapper {
+    position: absolute;
+    z-index: 10;
+}
